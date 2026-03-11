@@ -7,6 +7,62 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
+## 🏷️ [0.1.17](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.17) - 2026-03-11
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update submodules [`6ad6d3f`](https://github.com/SunriseCommunity/Solar-System/commit/6ad6d3ff284587712d11b4590541d3b9d4ae5437)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Dont Send Gamemod If Expect Any For Search by @richardscull in [#109](https://github.com/SunriseCommunity/Sunrise/pull/109)
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- Don't send -1 as gamemode for search endpoint [`e870725`](https://github.com/SunriseCommunity/Sunrise/commit/e8707251afd6d32546905e0570e006868bf1de25)
+
+
+##### 💼 Other
+
+- Merge pull request #109 from SunriseCommunity/fix/dont-send-gamemod-if-expect-any-for-search [`2a79fb0`](https://github.com/SunriseCommunity/Sunrise/commit/2a79fb03901c8bf8668b50350383345e4d2d9f75)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.16...v0.1.17`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.16...v0.1.17)
+
 ## 🏷️ [0.1.16](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.16) - 2026-03-11
 
 
@@ -19,7 +75,7 @@
 
 
 <details>
-<summary>📝 2 commit(s)</summary>
+<summary>📝 3 commit(s)</summary>
 
 
 #### 🚀 Features
@@ -28,6 +84,8 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`9a6aaf1`](https://github.com/SunriseCommunity/Solar-System/commit/9a6aaf14000fdfaabd17b8494c709ae049ebc2d1)
 
 - update submodules [`863ae7a`](https://github.com/SunriseCommunity/Solar-System/commit/863ae7a7f4f25fb10bdd7360b096eb04e753ffad)
 
