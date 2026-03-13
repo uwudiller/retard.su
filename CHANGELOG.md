@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.22](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.22) - 2026-03-11
+## 🏷️ [0.1.23](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.23) - 2026-03-13
 
 
 
@@ -23,6 +23,120 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`a7e7599`](https://github.com/SunriseCommunity/Solar-System/commit/a7e7599b987ad8d2af04d5253057b2d39639835b)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Paginate Query After Modification by @richardscull in [#113](https://github.com/SunriseCommunity/Sunrise/pull/113)
+- Add Api To Hide Username by @richardscull in [#112](https://github.com/SunriseCommunity/Sunrise/pull/112)
+- Add Ability To Ignore Login Data by @richardscull in [#111](https://github.com/SunriseCommunity/Sunrise/pull/111)
+
+
+
+
+<details>
+<summary>📝 7 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Drop user id requirement from the route [`95598ba`](https://github.com/SunriseCommunity/Sunrise/commit/95598baeea83176f054be99f39279193f7d70ff1)
+
+- Properly catch if we fail to insert/update bot entry [`9aff0e6`](https://github.com/SunriseCommunity/Sunrise/commit/9aff0e6a68400633515519f6c35c422abe6aa7ce)
+
+- Expose admin api endpoint to hide previous username [`0f1de96`](https://github.com/SunriseCommunity/Sunrise/commit/0f1de960485aab29957d88d3f350baaa52bcda8e)
+
+- Add tests [`32769c8`](https://github.com/SunriseCommunity/Sunrise/commit/32769c8f3c5e7594e0f39ecc2588a3063fc07683)
+
+- add ability to ignore register request from ip check [`81a627a`](https://github.com/SunriseCommunity/Sunrise/commit/81a627a0e5b5a5a914c8b04d4f4f89c156866af6)
+
+
+##### 🐛 Bug Fixes
+
+- Paginate query after modification [`696f426`](https://github.com/SunriseCommunity/Sunrise/commit/696f426d25a0b430d75a9a0be645cebe1487a7b9)
+
+- test [`fb1bf29`](https://github.com/SunriseCommunity/Sunrise/commit/fb1bf29882e2f039bfb1fc1ed97019c14202b2cd)
+
+
+##### 💼 Other
+
+- Merge pull request #113 from SunriseCommunity/fix/paginate-query-after-modification [`9b75c08`](https://github.com/SunriseCommunity/Sunrise/commit/9b75c08d2af65e689314556904ee4b4c1771f15f)
+
+- Merge pull request #112 from SunriseCommunity/feat/add-api-to-hide-username [`48258d6`](https://github.com/SunriseCommunity/Sunrise/commit/48258d6019345b7b48eecea3ea8106fd32d0b84a)
+
+- Merge pull request #111 from SunriseCommunity/feat/add-ability-to-ignore-login-data [`076df43`](https://github.com/SunriseCommunity/Sunrise/commit/076df43a38ee5cb3907d71b9ea3a3a60380362df)
+
+
+</details>
+
+
+### 🌇 Sunset
+
+
+#### 🔀 Pull Requests
+
+- Add New Admin Panel User Managing by @richardscull in [#39](https://github.com/SunriseCommunity/Sunset/pull/39)
+
+
+
+
+<details>
+<summary>📝 5 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- fix types for shortened mods [`d550673`](https://github.com/SunriseCommunity/Sunset/commit/d550673a5dfa23186fc18189d7b0b0241e3652cb)
+
+- Improve exempt from multi account check wording [`dab7ee7`](https://github.com/SunriseCommunity/Sunset/commit/dab7ee7ee48edb44b92d4fb2837d6cd21de77d2d)
+
+- Add ability to ignore login data [`2cedd26`](https://github.com/SunriseCommunity/Sunset/commit/2cedd2668174cc8397796720f03c2d4616185607)
+
+- Add ability to hide username change [`ec9e92d`](https://github.com/SunriseCommunity/Sunset/commit/ec9e92deced8f7dc644bc9ca2a1c256bd5913b9b)
+
+- api gen [`6b57699`](https://github.com/SunriseCommunity/Sunset/commit/6b57699f314cbac1605a063b7b2abca195e0056c)
+
+
+##### 💼 Other
+
+- Merge pull request #39 from SunriseCommunity/feat/add-new-admin-panel-user-managing [`9658c8f`](https://github.com/SunriseCommunity/Sunset/commit/9658c8fbe60b1e2dca68d85e2c7ae12e10e2bc6e)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.22...v0.1.23`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.22...v0.1.23)
+
+## 🏷️ [0.1.22](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.22) - 2026-03-11
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`72d7ba2`](https://github.com/SunriseCommunity/Solar-System/commit/72d7ba22403f838282636a390ab4b7a648769c0e)
 
 - update submodules [`de4d990`](https://github.com/SunriseCommunity/Solar-System/commit/de4d9901ed5149b2561f52e7ee227fb6ed30e44c)
 
