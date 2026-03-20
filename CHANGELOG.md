@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.25](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.25) - 2026-03-15
+## 🏷️ [0.1.26](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.26) - 2026-03-20
 
 
 
@@ -23,6 +23,70 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`97fc5c3`](https://github.com/SunriseCommunity/Solar-System/commit/97fc5c39b215951b24fba15ddabc578f43c51d73)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Medals Not Being Proccessed Fully by @richardscull in [#115](https://github.com/SunriseCommunity/Sunrise/pull/115)
+
+
+
+
+<details>
+<summary>📝 4 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Add missing HttpContextAccessor singletone [`e1069e5`](https://github.com/SunriseCommunity/Sunrise/commit/e1069e509c23397fb0bae0cc99e7aa15e970f56a)
+
+- Insert medals as a single entry [`4ae04cc`](https://github.com/SunriseCommunity/Sunrise/commit/4ae04cc31d23614914ab2eb810ea219853b2ab12)
+
+- Load User reference only if missing to not create double user tracker in db context by mistake [`333f665`](https://github.com/SunriseCommunity/Sunrise/commit/333f665b7d44ea8080f6d839caba981d7e662b91)
+
+- add test case [`57e5cde`](https://github.com/SunriseCommunity/Sunrise/commit/57e5cdeb7a6ed51df6195c01ec1c7ce883698dac)
+
+
+##### 💼 Other
+
+- Merge pull request #115 from SunriseCommunity/fix/medals-not-being-proccessed-fully [`9b1bc9b`](https://github.com/SunriseCommunity/Sunrise/commit/9b1bc9b1042ad0b767de424d0f01c56fba3054b7)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.25...v0.1.26`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.25...v0.1.26)
+
+## 🏷️ [0.1.25](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.25) - 2026-03-15
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`5734504`](https://github.com/SunriseCommunity/Solar-System/commit/5734504cd0572a5b2d1d236828da7af667af47c3)
 
 - update submodules [`4a15e02`](https://github.com/SunriseCommunity/Solar-System/commit/4a15e029ceeb8eb5ef85496fe6ba0c5d6f858dcd)
 
