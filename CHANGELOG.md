@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.30](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.30) - 2026-03-21
+## 🏷️ [0.1.31](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.31) - 2026-03-21
 
 
 
@@ -23,6 +23,55 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`2810e84`](https://github.com/SunriseCommunity/Solar-System/commit/2810e843dcceb891d99520f60e856e25a3b47519)
+
+
+</details>
+
+
+
+
+### 🌇 Sunset
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- Use variables from css styles instead hard coded one's for charts [`7436c24`](https://github.com/SunriseCommunity/Sunset/commit/7436c241a0c66f3a9ab45406c7ea6fd8e9e06339)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.30...v0.1.31`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.30...v0.1.31)
+
+## 🏷️ [0.1.30](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.30) - 2026-03-21
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`dae340f`](https://github.com/SunriseCommunity/Solar-System/commit/dae340ff5cf91185adaa5224abd8ba94dc8d49fc)
 
 - update submodules [`bfe89ec`](https://github.com/SunriseCommunity/Solar-System/commit/bfe89ec7d273766d506cd09d08b9369bb966b4da)
 
