@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.31](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.31) - 2026-03-21
+## 🏷️ [0.1.32](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.32) - 2026-03-22
 
 
 
@@ -23,6 +23,77 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`e09afd8`](https://github.com/SunriseCommunity/Solar-System/commit/e09afd8ef7c51cbdcaece4544fca93f3cd036fe1)
+
+
+</details>
+
+
+
+
+### 🌇 Sunset
+
+
+#### 🔀 Pull Requests
+
+- Image Upload Crop by @richardscull in [#41](https://github.com/SunriseCommunity/Sunset/pull/41)
+- Croppable Profile Elements by @richardscull in [#40](https://github.com/SunriseCommunity/Sunset/pull/40)
+
+
+
+
+<details>
+<summary>📝 6 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Enable image crop for admin panel [`2c1b16e`](https://github.com/SunriseCommunity/Sunset/commit/2c1b16e4230f39f15766ca22b95a3a5e6603d3fd)
+
+- small improvements [`8da2d07`](https://github.com/SunriseCommunity/Sunset/commit/8da2d07d1f0a14301cdf4cc43d5ac3e0b69d0288)
+
+- Use shadcn/ui slider for crop [`b029dea`](https://github.com/SunriseCommunity/Sunset/commit/b029deabb70213a49d5a27f2c487e17d592e5806)
+
+- Reviewer requested changes [`da69ca5`](https://github.com/SunriseCommunity/Sunset/commit/da69ca5a67bdf3f66421caf7dd2ee4f50dd7fc2e)
+
+
+##### 💼 Other
+
+- Merge pull request #41 from SunriseCommunity/feat/image-upload-crop [`03ce6e7`](https://github.com/SunriseCommunity/Sunset/commit/03ce6e7e3cd0d8be0b91a0bebae3aeebbcd4ce9d)
+
+- Merge pull request #40 from asteriau/croppable-profile-elements [`47a59db`](https://github.com/SunriseCommunity/Sunset/commit/47a59db23f409fd3d8a83f92dcfebedede738df0)
+
+- remove duplicate lockfile [`3fc8bc3`](https://github.com/SunriseCommunity/Sunset/commit/3fc8bc37f62cc61996267ffda38cfeb77129cb57)
+
+- allow cropping profile elements & gif support [`fd5cc20`](https://github.com/SunriseCommunity/Sunset/commit/fd5cc20a2a6c9563a8a48a67f69ff907dc66ccce)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.31...v0.1.32`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.31...v0.1.32)
+
+## 🏷️ [0.1.31](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.31) - 2026-03-21
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`5e912a1`](https://github.com/SunriseCommunity/Solar-System/commit/5e912a1e95126e43a793f51b66251820f17d00f1)
 
 - update submodules [`2810e84`](https://github.com/SunriseCommunity/Solar-System/commit/2810e843dcceb891d99520f60e856e25a3b47519)
 
