@@ -7,6 +7,76 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
+## 🏷️ [0.1.33](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.33) - 2026-03-26
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### 🚀 Features
+
+- Add local scripts [`89fc560`](https://github.com/SunriseCommunity/Solar-System/commit/89fc5604960e7ec2f95ea600c2275b07c419af7f)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update submodules [`1b60803`](https://github.com/SunriseCommunity/Solar-System/commit/1b6080368c8ccbf00f4882a8b138c8db3963015b)
+
+
+</details>
+
+
+
+
+### 🔭 Observatory
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- fallback to proper objects for databaseToObject [`127e276`](https://github.com/SunriseCommunity/Observatory/commit/127e276958a5f91ccb5d77343092f0328e0e888d)
+
+
+</details>
+
+
+### 🌇 Sunset
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Add env option to unoptimize images [`c7c7ffc`](https://github.com/SunriseCommunity/Sunset/commit/c7c7ffcd9f06726f134cb9e21384078a680533af)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.32...v0.1.33`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.32...v0.1.33)
+
 ## 🏷️ [0.1.32](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.32) - 2026-03-22
 
 
@@ -19,10 +89,12 @@
 
 
 <details>
-<summary>📝 1 commit(s)</summary>
+<summary>📝 2 commit(s)</summary>
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`02913a4`](https://github.com/SunriseCommunity/Solar-System/commit/02913a4c6a5ef9cea4d87f4ada12a484e40a59c5)
 
 - update submodules [`e09afd8`](https://github.com/SunriseCommunity/Solar-System/commit/e09afd8ef7c51cbdcaece4544fca93f3cd036fe1)
 
