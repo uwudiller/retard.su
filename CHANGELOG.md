@@ -7,6 +7,96 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
+## 🏷️ [0.1.36](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.36) - 2026-03-31
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update submodules [`9cd4938`](https://github.com/SunriseCommunity/Solar-System/commit/9cd49383e938aa4a1e0f1bc4bb942b3ec437e40e)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Clean Db Second Layer Cache After Transaction by @richardscull in [#116](https://github.com/SunriseCommunity/Sunrise/pull/116)
+
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Clear db second layer cache after transaction [`2e660e1`](https://github.com/SunriseCommunity/Sunrise/commit/2e660e1a8130b75a00fd7d8c9fa9949f561153f3)
+
+
+##### 🐛 Bug Fixes
+
+- make cache service provider nullable [`a93596e`](https://github.com/SunriseCommunity/Sunrise/commit/a93596ea91603cc78a1b3589acb6b3f2852d4437)
+
+
+##### 💼 Other
+
+- Merge pull request #116 from SunriseCommunity/feat/clean-db-second-layer-cache-after-transaction [`c5c781c`](https://github.com/SunriseCommunity/Sunrise/commit/c5c781c746f5889ec4d4b5e7cb42f4533f17942d)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.35...v0.1.36`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.35...v0.1.36)
+
+## 🏷️ [0.1.35](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.35) - 2026-03-31
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`4735ea8`](https://github.com/SunriseCommunity/Solar-System/commit/4735ea852a989939249d6e7b534b00973e97ddad)
+
+
+</details>
+
+
+
+
+
+
+**Full Changelog**: [`v0.1.34...v0.1.35`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.34...v0.1.35)
+
 ## 🏷️ [0.1.34](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.34) - 2026-03-26
 
 
