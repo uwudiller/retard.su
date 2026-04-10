@@ -1,0 +1,26 @@
+# Sunrise - osu server
+b.mistani.lol,
+c.mistani.lol,
+cho.mistani.lol,
+c4.mistani.lol,
+a.mistani.lol,
+api.mistani.lol,
+osu.mistani.lol,
+assets.mistani.lol {
+    reverse_proxy localhost:3912
+}
+
+# Sunset - website
+mistani.lol {
+    reverse_proxy localhost:3090
+}
+
+# Grafana
+grafana.mistani.lol {
+    reverse_proxy localhost:3060
+}
+
+# Observatory
+observatory.mistani.lol {
+    reverse_proxy localhost:3333
+}
